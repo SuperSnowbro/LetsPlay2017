@@ -60,3 +60,8 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+PsychoRunVR/Intermediate/Config/CoalescedSourceConfigs/
+PsychoRunVR/Saved/Backup/
+PsychoRunVR/Saved/Autosaves/
+PsychoRunVR/Saved/Logs/
+PsychoRunVR/Saved/Screenshots/
